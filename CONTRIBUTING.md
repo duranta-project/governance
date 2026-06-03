@@ -1,6 +1,19 @@
-This file represents the initial contacts for new project Duranta. Once a formal initial TSC is established this file will be updated accordingly, as well as additional information to be added.
+# CONTRIBUTING
 
-Initial contacts for new project Duranta (alphabetical by last name):
+## Maintainers or Committers
+
+| Name                | Github ID  |
+|---------------------|------------|
+|Robert Schmidt       | rorsc      |
+|Jaroslava Fiedlerova |jfiedlerova |
+
+You can contact the maintainers 
+team at [oaicicdteam@openairinterface.org](mailto:oaicicdteam@openairinterface.org)
+
+
+## Duranta Technical Steering Committee (TSC)
+
+TSC Members (alphabetical by last name):
 
 | Name | Contact |
 | --- | --- |
@@ -10,3 +23,8 @@ Initial contacts for new project Duranta (alphabetical by last name):
 | Doug Knisely | [dknisely@qti.qualcomm.com](mailto:dknisely@qti.qualcomm.com) |
 | Camille Lerda | [camille.lerda@openairinterface.org](mailto:camille.lerda@openairinterface.org) |
 | Olaf Renner | [olaf.renner@nokia.com](mailto:olaf.renner@nokia.com) |
+
+
+## Contributions Guidelines
+
+Check the [contribution guidelines](https://github.com/duranta-project/openairinterface5g/blob/develop/CONTRIBUTING.md)
