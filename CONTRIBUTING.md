@@ -1,15 +1,13 @@
+<!-- SPDX-License-Identifier: CC-BY-4.0 -->
+
 # CONTRIBUTING
 
 ## Maintainers or Committers
 
-| Name                | Github ID  |
+| Name                | Contact  |
 |---------------------|------------|
-|Robert Schmidt       | rorsc      |
-|Jaroslava Fiedlerova |jfiedlerova |
-
-You can contact the maintainers 
-team at [oaicicdteam@openairinterface.org](mailto:oaicicdteam@openairinterface.org)
-
+|Robert Schmidt       | [robert.schmidt@openairinterface.org](mailto:robert.schmidt@openairinterface.org) |
+|Jaroslava Fiedlerova | [jaroslava.fiedlerova@openairinterface.org](mailto:jaroslava.fiedlerova@openairinterface.org) |
 
 ## Duranta Technical Steering Committee (TSC)
 
@@ -23,7 +21,6 @@ TSC Members (alphabetical by last name):
 | Doug Knisely | [dknisely@qti.qualcomm.com](mailto:dknisely@qti.qualcomm.com) |
 | Camille Lerda | [camille.lerda@openairinterface.org](mailto:camille.lerda@openairinterface.org) |
 | Olaf Renner | [olaf.renner@nokia.com](mailto:olaf.renner@nokia.com) |
-
 
 ## Contributions Guidelines
 

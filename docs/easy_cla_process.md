@@ -22,22 +22,32 @@ company to be the CLA manager. The CLA manager will need to add the list of
 contributors from their company to the section "Approved List of Contributors
 From My organization"
 
-## Sign the CLA before doing the contribution
+## Sign the CLA before doing the Contribution
 
 Login with your LFX account to [LFX Easy CLA
 dashboard](https://organization.lfx.linuxfoundation.org/foundation/a094100000aErheAAC/project/lfScnpI7mM0r6WdgVk/cla).
 The link will directly select the Duranta project, in case of redirection
 issues please select LFN and then Duranta project.
 
+To know more about the functioning of easy cla 
+[you can check their 
+documentation](https://docs.linuxfoundation.org/lfx/easycla/v2-current/contributors) 
+
+**Note**: CLA manager can add more people from the same
+company to be the CLA manager. The CLA manager will need to add the list of
+contributors from their company to the section "Approved List of Contributors
+From My organization". We recommend you to use Github ID of the user, as 
+sometimes users have multiple email-addresses.
+
 ## Sign the CLA with the First Contribution
 
 When contributors do their first contribution the Pull Request (PR) will
 receive an Easy CLA automated reply if the CLA is not signed. 
 
+As show in the below picture ![](./images/Easy_CLA_Github.png)
+
 The reply provides a link to sign the CLA. You should be logged in with your
 LFX account to proceed further.
-
-As show in the below picture ![](./images/Easy_CLA_Github.png)
 
 You would need to choose the CLA you would like to sign, Corporate Contributor
 or Individual Contributor.
@@ -48,3 +58,7 @@ In case of corporate you will need to choose your company name and in case of
 individual you will just have to proceed with compliance confirmation
 
 ![](./images/Easy_CLA_Corporate.png)
+
+To know more about the functioning of easy cla 
+[you can check their 
+documentation](https://docs.linuxfoundation.org/lfx/easycla/v2-current/contributors) 
