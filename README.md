@@ -68,4 +68,4 @@ Contribution License Agreement (ICLA). Corporations whose employees contribute
 to Duranta project, should sign a Corporate Contributor License Agreement (
 CCLA) and all their employees to contribute to the project.
 
-The CLA is managed using the Linux Foundation Easy CLA tool, to know more about the process [please read this document](./docs/easy_cla_process.md).  
+The CLA is managed using the Linux Foundation Easy CLA tool, to know more about the process [please read this document](./docs/easy_cla_process.md).
