@@ -1,64 +1,97 @@
-# Easy CLA: Signing of Contributor License Agreement
+# EasyCLA: Signing the Contributor License Agreement
 
-The CLA is managed using the [Linux Foundation Easy CLA
-tool](https://github.com/linuxfoundation/easycla).  The contributors can sign
-the CLA before doing the contribution or after doing the contribution.
+The CLA is managed using the [Linux Foundation EasyCLA tool][easycla-tool].
+Contributors can sign the CLA before or after making their first contribution.
 
-Though to sign the CLA you have to create a [LFX
-account](https://lfx.linuxfoundation.org/tools/individual-dashboard/).  For the
-companies the LFX account helps you manage the list of approved contributors
-from the company.
+To sign the CLA, you need to create an [LFX account][lfx-account]. Corporate
+contributors have a dedicated portal in LFX to manage CLAs and check
+contribution status.
 
-**Very important Note**: Offline signing of PDF version of CLA is not
-recommended because you will still need to mention your/your employees
-email-address, email domain or Github ID so that their pull request can pass
-the Easy CLA test, which is mandatory before starting the CI pipeline.
+## Sign the CLA as a Company or Organization
 
-If you want to sign the CLA offline using the PDF version provided in the [cla
-folder](../cla). You can send the signed copy to
-oaicicdteam@openairinterface.org. After signing the CLA you will receive an
-email to login as a CLA manager, later you can add more people from the same
-company to be the CLA manager. The CLA manager will need to add the list of
-contributors from their company to the section "Approved List of Contributors
-From My organization"
+### If your company is registered in the EasyCLA database
 
-## Sign the CLA before doing the Contribution
+Log in with your LFX account to the [LFX EasyCLA dashboard][lfx-dashboard].
+Select LFN, then select the Duranta project.
 
-Login with your LFX account to [LFX Easy CLA
-dashboard](https://organization.lfx.linuxfoundation.org/foundation/a094100000aErheAAC/project/lfScnpI7mM0r6WdgVk/cla).
-The link will directly select the Duranta project, in case of redirection
-issues please select LFN and then Duranta project.
+For more information about EasyCLA, see the
+[EasyCLA contributor documentation][easycla-contributor-docs].
 
-To know more about the functioning of easy cla 
-[you can check their 
-documentation](https://docs.linuxfoundation.org/lfx/easycla/v2-current/contributors) 
+### If your company is not registered in the EasyCLA database
 
-**Note**: CLA manager can add more people from the same
-company to be the CLA manager. The CLA manager will need to add the list of
-contributors from their company to the section "Approved List of Contributors
-From My organization". We recommend you to use Github ID of the user, as 
-sometimes users have multiple email-addresses.
+Contact the LFN support team to add your company name. Then log in with your
+LFX account to the [LFX EasyCLA dashboard][lfx-dashboard] and select LFN, then
+Duranta.
 
-## Sign the CLA with the First Contribution
+You will see this message:
 
-When contributors do their first contribution the Pull Request (PR) will
-receive an Easy CLA automated reply if the CLA is not signed. 
+> Your organization is not yet enrolled in EasyCLA. For security, please
+> contact support via the chat widget.
 
-As show in the below picture ![](./images/Easy_CLA_Github.png)
+Use the chatbot to request that your organization's name be added. Adding a new
+company takes about 24 to 48 hours.
+
+### CLA Manager
+
+A CLA manager can add more people from the same company as CLA managers. The
+CLA manager must add the company's contributors to the "Approved List of
+Contributors From My Organization" section. We recommend using the user's
+GitHub ID because users sometimes have multiple email addresses.
+
+### Offline Signing of the CLA (Not Recommended)
+
+It is possible to sign the CLA offline if your company is not registered, or
+if you have trouble following the procedure above. This option is not
+recommended.
+
+**Note**: After signing the PDF version of the CLA, you must still provide
+your employees' email addresses, email domains, or GitHub IDs so
+their pull requests can pass the EasyCLA check.
+
+If you want to sign the CLA offline, use the PDF version provided in the
+[cla folder](../cla). Send the signed copy to
+[oaicicdteam@openairinterface.org](mailto:oaicicdteam@openairinterface.org).
+
+After signing the CLA, you will receive an email inviting you to log in as a
+CLA manager. You can later add more people from the same company as CLA
+managers. The CLA manager must add the company's contributors to the "Approved
+List of Contributors From My Organization" section.
+
+## Sign the CLA with the First Contribution (Individual and Corporate)
+
+When contributors make their first contribution, the pull request (PR) receives
+an automated EasyCLA reply if the CLA has not been signed.
+
+The following image shows an example reply:
+
+![EasyCLA Github](./images/Easy_CLA_Github.png)
 
 The reply provides a link to sign the CLA. You should be logged in with your
-LFX account to proceed further.
+LFX account before you proceed.
 
-You would need to choose the CLA you would like to sign, Corporate Contributor
-or Individual Contributor.
+You need to choose which CLA to sign: Corporate Contributor or Individual
+Contributor.
 
-![](./images/Easy_CLA_Choice.png)
+![EasyCLA Choice](./images/Easy_CLA_Choice.png)
 
-In case of corporate you will need to choose your company name and in case of
-individual you will just have to proceed with compliance confirmation
+If you sign as a Corporate Contributor, choose your company name. If you sign
+as an Individual Contributor, proceed with the compliance confirmation.
 
-![](./images/Easy_CLA_Corporate.png)
+![EasyCLA Corporate](./images/Easy_CLA_Corporate.png)
 
-To know more about the functioning of easy cla 
-[you can check their 
-documentation](https://docs.linuxfoundation.org/lfx/easycla/v2-current/contributors) 
+For more information about EasyCLA, see the
+[EasyCLA contributor documentation][easycla-contributor-docs].
+
+### Troubleshooting
+
+If you have issues, contact
+[oaicicdteam@openairinterface.org](mailto:oaicicdteam@openairinterface.org).
+
+[easycla-tool]:
+  https://github.com/linuxfoundation/easycla
+[easycla-contributor-docs]:
+  https://docs.linuxfoundation.org/lfx/easycla/v2-current/contributors
+[lfx-account]:
+  https://lfx.linuxfoundation.org/
+[lfx-dashboard]:
+  https://organization.lfx.linuxfoundation.org/
