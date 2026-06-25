@@ -3,7 +3,7 @@
 # Duranta Governance
 
 <h1 align="center">
-    <a href="https://openairinterface.org/"><img src="logos/Duranta-OAI-Combined.png" alt="OAI" width="550"></a>
+    <a href="https://openairinterface.org/"><img src="logos/Duranta-Logo-Color.png" alt="OAI" width="550"></a>
     <a href="https://github.com/duranta-project/openairinterface5g/blob/develop/LICENSE"><img src="https://img.shields.io/badge/license-CSSL--v1.0-blue" alt="License"></a>
 </h1>
 
