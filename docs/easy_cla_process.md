@@ -50,7 +50,7 @@ their pull requests can pass the EasyCLA check.
 
 If you want to sign the CLA offline, use the PDF version provided in the
 [cla folder](../cla). Send the signed copy to
-[oaicicdteam@openairinterface.org](mailto:oaicicdteam@openairinterface.org).
+[cicd@durantaproject.org](mailto:cicd@durantaproject.org).
 
 After signing the CLA, you will receive an email inviting you to log in as a
 CLA manager. You can later add more people from the same company as CLA
@@ -85,7 +85,7 @@ For more information about EasyCLA, see the
 ### Troubleshooting
 
 If you have issues, contact
-[oaicicdteam@openairinterface.org](mailto:oaicicdteam@openairinterface.org).
+[cicd@durantaproject.org](mailto:cicd@durantaproject.org).
 
 [easycla-tool]:
   https://github.com/linuxfoundation/easycla
