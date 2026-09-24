@@ -41,7 +41,8 @@ openairinterface5g repository
 All the files without an explicit copyright header
 have an implicit "Copyright of OpenAirInterface Authors".
 
-In [openairinterface5g](https://github.com/duranta-project/openairinterface5g/tree/develop/LICENSES) repository you can find the list of licenses.
+In [openairinterface5g](https://github.com/duranta-project/openairinterface5g/tree/develop/LICENSES)
+repository you can find the list of licenses.
 
 ## Project Technical Charter
 
@@ -65,7 +66,13 @@ the future.
 
 The Individuals contributing to the project should sign an Individual 
 Contribution License Agreement (ICLA). Corporations whose employees contribute 
-to Duranta project, should sign a Corporate Contributor License Agreement (
-CCLA) and all their employees to contribute to the project.
+to Duranta project, should sign a Corporate Contributor License Agreement (CCLA)
+and all their employees to contribute to the project.
 
-The CLA is managed using the Linux Foundation Easy CLA tool, to know more about the process [please read this document](./docs/easy_cla_process.md).  
+The CLA is managed using the Linux Foundation Easy CLA tool,
+to know more about the process [please read this document](./docs/easy_cla_process.md).
+
+## Code of Conduct
+
+Duranta follows the the Linux Foundation's
+[Code of Conduct](https://lfprojects.org/policies/code-of-conduct/)
