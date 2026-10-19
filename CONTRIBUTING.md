@@ -82,6 +82,12 @@ different roles and responsibility.
 | Teodora Vladić | teodora.vladic@openairinterface.org |
 | Robert Schmidt | robert.schmidt@openairinterface.org |
 
+#### Collaborators
+
+| Name                  | Company                 | GitHub Username   |
+| --------------------- | ----------------------- | ----------------- |
+| Andrea Lacava         | Northeastern University | Thecave3          |
+
 ## Contribution Guidelines
 
 Check each sub-project's default branch for its `CONTRIBUTING.md` file:
