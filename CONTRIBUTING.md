@@ -75,12 +75,18 @@ different roles and responsibility.
 
 **Repository:** [flexric][flexric-repo]
 
-### Maintainers
+#### Maintainers
 
 | Name           | Contact                             |
 | -------------- | ------------------------------------|
-| Teodora Vladic | teodora.vladic@openairinterface.org |
+| Teodora Vladić | teodora.vladic@openairinterface.org |
 | Robert Schmidt | robert.schmidt@openairinterface.org |
+
+#### Collaborators
+
+| Name                  | Company                 | GitHub Username   |
+| --------------------- | ----------------------- | ----------------- |
+| Andrea Lacava         | Northeastern University | Thecave3          |
 
 ## Contribution Guidelines
 
