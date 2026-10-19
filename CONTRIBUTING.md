@@ -75,11 +75,11 @@ different roles and responsibility.
 
 **Repository:** [flexric][flexric-repo]
 
-### Maintainers
+#### Maintainers
 
 | Name           | Contact                             |
 | -------------- | ------------------------------------|
-| Teodora Vladic | teodora.vladic@openairinterface.org |
+| Teodora Vladić | teodora.vladic@openairinterface.org |
 | Robert Schmidt | robert.schmidt@openairinterface.org |
 
 ## Contribution Guidelines
