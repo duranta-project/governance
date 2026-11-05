@@ -70,6 +70,9 @@ different roles and responsibility.
 | Rakesh Mundlamuri     | OpenAirInterface Software Alliance | rakeshmundlamuri|
 | Raymond Knopp         | OpenAirInterface Software Alliance | RaymondKnopp |
 | Rupanjali Srivastava  | OpenAirInterface Software Alliance | rupanjali-ux |
+| Teodora Vladić        | OpenAirInterface Software Alliance | teodora-vladic |
+| Venkatareddy Akumalla | OpenAirInterface Software Alliance | venkatareddy453 |
+| Mohammed Safwan       | OpenAirInterface Software Alliance | safwan2mo    |
 
 ### flexric
 
