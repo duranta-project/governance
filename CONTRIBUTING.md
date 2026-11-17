@@ -62,6 +62,9 @@ different roles and responsibility.
 | Abdennour ABDI        | OpenCells               | noro-ovo          |
 | Peyron Calvin         | OpenCells               | PC-OC             |
 | Laurent Thomas        | OpenCells               | LaurentThomas     |
+| Noel Teku             | Applied Intuition       | noel-teku-ai      |
+| David Kim             | Applied Intuition       | davidkimmy        |
+| Ejaz Ahmed            | Applied Intuition       | ejazAhmed-se      |
 | Bartosz Podrygajlo    | OpenAirInterface Software Alliance | bpodrygajlo |
 | Connor Blasie         | OpenAirInterface Software Alliance | ConnorBlasie |
 | Francesco Mani        | OpenAirInterface Software Alliance | francescomani |
